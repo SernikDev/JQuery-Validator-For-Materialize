@@ -1,7 +1,7 @@
 /* 
- * JQuery Validator For Materializecss v.1 (https://)
- * Copyright: 2017 Lukasz Ziec
- * MIT License ()
+ * JQuery Validator For Materializecss v.1 (https://github.com/SernikDev/JQuery-Validator-For-Materialize)
+ * Copyright: 2018 Łukasz Zięć
+ * MIT License (https://github.com/SernikDev/JQuery-Validator-For-Materialize/blob/master/LICENSE)
  */
 
 $(document).ready(function () {
