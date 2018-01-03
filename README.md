@@ -1,5 +1,7 @@
 # JQuery Validator For Materialize
 
+** Remember that that validation comes just for improve better UX, so you will also need to make validation for your server sides script **
+
 Very simple validator for data in html forms.
 It's working good with Materialize library.
 
