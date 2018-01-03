@@ -1,0 +1,15 @@
+.msg {
+    display: block;
+    position: absolute;
+    top: 100%;
+    margin-top: -15px;
+    font-size: 10px;
+}
+
+.suc.msg {
+    color: #4CAF50;
+}
+
+.err.msg {
+    color: #F44336;
+}
